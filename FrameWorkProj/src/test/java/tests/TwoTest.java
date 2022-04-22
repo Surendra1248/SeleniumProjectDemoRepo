@@ -11,6 +11,7 @@ public class TwoTest extends Base{
 	public WebDriver driver;
 	@Test
 	public void testTwo() throws IOException, InterruptedException {
+		System.out.println("changes done by sruthi");
 	driver=initializeDriver();
 	driver.get("https://www.google.co.in/");
 	Thread.sleep(3000);
