@@ -1,0 +1,67 @@
+18:28:14.233[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2591d030
+18:28:14.235[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@346ce2ba
+18:28:14.236[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@50f4a075
+18:28:14.236[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@29bcc6e0
+18:28:14.237[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@28783b7
+18:28:14.238[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@512dc86f
+18:28:14.238[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@242f2d37
+18:28:14.239[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6b6b6494
+18:28:14.239[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@55cfd875
+18:28:14.239[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6a1e1c13
+18:28:14.240[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3705c2f2
+18:28:14.240[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7fa4f42
+18:28:14.241[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2c5d23b8
+18:28:14.241[TestNG-tests-1]TRACEio.netty.channel.nio.NioEventLoop-instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@36395ca4
+18:28:14.255[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.numHeapArenas: 20
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.numDirectArenas: 20
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.pageSize: 8192
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.maxOrder: 11
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.chunkSize: 16777216
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.smallCacheSize: 256
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.normalCacheSize: 64
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.maxCachedBufferCapacity: 32768
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.cacheTrimInterval: 8192
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.cacheTrimIntervalMillis: 0
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.useCacheForAllThreads: true
+18:28:14.256[TestNG-tests-1]DEBUGio.netty.buffer.PooledByteBufAllocator--Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+18:28:14.263[TestNG-tests-1]DEBUGio.netty.buffer.ByteBufUtil--Dio.netty.allocator.type: pooled
+18:28:14.263[TestNG-tests-1]DEBUGio.netty.buffer.ByteBufUtil--Dio.netty.threadLocalDirectBufferSize: 0
+18:28:14.263[TestNG-tests-1]DEBUGio.netty.buffer.ByteBufUtil--Dio.netty.maxThreadLocalCharBufferSize: 16384
+18:28:15.009[Forwarding newSession on session null to remote]DEBUGio.netty.channel.DefaultChannelId--Dio.netty.processId: 14468 (auto-detected)
+18:28:15.011[Forwarding newSession on session null to remote]DEBUGio.netty.util.NetUtil--Djava.net.preferIPv4Stack: false
+18:28:15.011[Forwarding newSession on session null to remote]DEBUGio.netty.util.NetUtil--Djava.net.preferIPv6Addresses: false
+18:28:15.096[Forwarding newSession on session null to remote]DEBUGio.netty.util.NetUtilInitializations-Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+18:28:15.097[Forwarding newSession on session null to remote]DEBUGio.netty.util.NetUtil-Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+18:28:15.186[Forwarding newSession on session null to remote]DEBUGio.netty.channel.DefaultChannelId--Dio.netty.machineId: 08:6a:c5:ff:fe:59:1e:ec (auto-detected)
+18:28:15.228[AsyncHttpClient-1-4]DEBUGio.netty.buffer.AbstractByteBuf--Dio.netty.buffer.checkAccessible: true
+18:28:15.228[AsyncHttpClient-1-4]DEBUGio.netty.buffer.AbstractByteBuf--Dio.netty.buffer.checkBounds: true
+18:28:15.228[AsyncHttpClient-1-4]DEBUGio.netty.util.ResourceLeakDetectorFactory-Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@80272bc
+18:28:15.246[AsyncHttpClient-1-3]DEBUGio.netty.util.Recycler--Dio.netty.recycler.maxCapacityPerThread: 4096
+18:28:15.246[AsyncHttpClient-1-3]DEBUGio.netty.util.Recycler--Dio.netty.recycler.maxSharedCapacityFactor: 2
+18:28:15.246[AsyncHttpClient-1-3]DEBUGio.netty.util.Recycler--Dio.netty.recycler.linkCapacity: 16
+18:28:15.246[AsyncHttpClient-1-3]DEBUGio.netty.util.Recycler--Dio.netty.recycler.ratio: 8
+18:28:15.246[AsyncHttpClient-1-3]DEBUGio.netty.util.Recycler--Dio.netty.recycler.delayedQueue.ratio: 8
+18:28:16.128[AsyncHttpClient-1-3]DEBUGio.netty.handler.codec.compression.Brotli-brotli4j not in the classpath; Brotli support will be unavailable.
+18:28:16.313[TestNG-tests-2]DEBUGio.netty.util.internal.ThreadLocalRandom--Dio.netty.initialSeedUniquifier: 0x956b8f29051b7e17
+18:28:16.516[TestNG-tests-3]DEBUGtests.LoginTest-Browser got launched
+18:28:17.455[TestNG-tests-3]DEBUGtests.LoginTest-Navigated to application URL
+18:28:17.616[TestNG-tests-3]DEBUGtests.LoginTest-Clicked on MyAccount DropDown
+18:28:17.891[TestNG-tests-3]DEBUGtests.LoginTest-Clicked on login Option
+18:28:17.959[TestNG-tests-3]DEBUGtests.LoginTest-Entered email address
+18:28:18.039[TestNG-tests-3]DEBUGtests.LoginTest-Entered password
+18:28:18.320[TestNG-tests-3]DEBUGtests.LoginTest-Clicked on login button
+18:28:18.373[TestNG-tests-3]DEBUGtests.LoginTest-User got logged in
+18:28:18.373[TestNG-tests-3]INFO tests.LoginTest-Login Test got passed
+18:28:18.475[TestNG-tests-3]DEBUGtests.LoginTest-Browser got closed
+18:28:19.886[TestNG-tests-3]DEBUGtests.LoginTest-Browser got launched
+18:28:20.471[TestNG-tests-3]DEBUGtests.LoginTest-Navigated to application URL
+18:28:20.520[TestNG-tests-3]DEBUGtests.LoginTest-Clicked on MyAccount DropDown
+18:28:20.700[TestNG-tests-3]DEBUGtests.LoginTest-Clicked on login Option
+18:28:20.773[TestNG-tests-3]DEBUGtests.LoginTest-Entered email address
+18:28:20.838[TestNG-tests-3]DEBUGtests.LoginTest-Entered password
+18:28:21.134[TestNG-tests-3]DEBUGtests.LoginTest-Clicked on login button
+18:28:21.348[AsyncHttpClient-1-9]TRACEio.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder-Encoding WebSocket Frame opCode=8 length=26
+18:28:24.732[AsyncHttpClient-1-16]TRACEio.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder-Encoding WebSocket Frame opCode=8 length=26
+18:28:31.198[TestNG-tests-3]DEBUGtests.LoginTest-User not able to login
+18:28:31.198[TestNG-tests-3]INFO tests.LoginTest-Login Test got passed
+18:28:31.266[TestNG-tests-3]DEBUGtests.LoginTest-Browser got closed
